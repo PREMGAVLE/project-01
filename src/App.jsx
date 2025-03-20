@@ -1,25 +1,51 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+ 
+
 import './App.css'
 import Navbar from './Components/Navabar/Navbar'
 
+import Mainroutes from './AllRoutes/Mainroutes'
+import Footer from './Components/Footer/Footer'
+// import About from './Pages/About'
+// import Home from './Pages/Home'
+
 function App() {
-  const [count, setCount] = useState(0)
+
+
+
+
+  // const aboutRef = useRef(null)
+  // const recipeRef = useRef(null)
+  // const refGallary = useRef(null)
+
+
+
+  // const scrollToAbout = () => {
+  //   aboutRef.current?.scrollIntoView({ behavior: "smooth" })
+  // }
+  // const scrollToRecipe=()=>{
+
+  //   recipeRef.current?.scrollIntoView({behavior:"smooth"})
+  // }
+  // const scrollToSection = (Section) => {
+  //   const refs = {
+  //     recipe: recipeRef,
+  //     gallary: refGallary,
+  //   }
+  //   refs[Section].current?.scrollIntoView({ behavior: "smooth" })
+  // }
 
   return (
     <>
-      <Navbar/>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-    
+      <Navbar />
+      <br />
+      <br />
+      <br />
+      <br />
+      <Mainroutes />
+      <br />
+      <br />
+      <Footer/>
+      
     </>
   )
 }

@@ -1,0 +1,158 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "a title",
+            "price": 100
+        },
+        {
+            "id": "2",
+            "title": "another title",
+            "price": 200
+        }
+    ],
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "price": "10 $",
+            "description": "A delicious pizza,Margherita Pizza",
+            "image": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Sauteed Mushrooms with pumpkin",
+            "price": "50 $",
+            "description": "A delicious pizza",
+            "image": "https://img.freepik.com/premium-photo/sauteed-mushrooms-with-pumpkin-sweet-pepper_2829-10316.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kale Caesar",
+            "price": "23 $",
+            "description": "A delicious pizza",
+            "image": "https://cdn.tasteatlas.com//images/dishes/79e74b58037a4da8b4143e756fccaf93.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Beef Burger Recipe",
+            "price": "30 $",
+            "description": "A delicious pizza",
+            "image": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/09/beef-burger.jpg?im=AspectCrop=(16,9);"
+        },
+        {
+            "id": 5,
+            "name": "Paav Bhaajii",
+            "price": "22 $",
+            "description": "Famous Veg Dishesof India top vegitarian delisious and seviure",
+            "image": "https://blog.swiggy.com/wp-content/uploads/2024/09/Image-3_Pav-Bhaji-1024x538.png"
+        },
+        {
+            "id": 6,
+            "name": " Palak paneer",
+            "price": "12 $",
+            "description": "Palak paneer is a popular Indian vegetarian dish made with paneer cheese in a rich, thick sauce  ",
+            "image": "https://cdn.tasteatlas.com//Images/Dishes/4ecba690cc0b47809d43d70c7a6b3a39.jpg?w=905&h=510"
+        },
+        {
+            "id": 7,
+            "name": " Matar ke Kabab",
+            "price": "22 $",
+            "description": "Matar ke kabab is a perfect starter for a vegetarian meal which can be eaten with a variety of chutneys adding to the taste. ",
+            "image": "https://c.ndtvimg.com/2021-03/69go9vko_copper-thali_625x300_10_March_21.jpg"
+        },
+        {
+            "id": 8,
+            "name": " Dal tadka",
+            "price": "28 $",
+            "description": "Dal tadka or tadkewali dal is a traditional legume-based dish originating from the northern parts of India. Although there are variations ",
+            "image": "https://cdn.tasteatlas.com//images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?w=905&h=510"
+        },
+        {
+            "id": 9,
+            "name": " Matar ke Kabab",
+            "price": "32 $",
+            "description": "The dish is commonly served at festivals, celebrations, and weddings due to its rich texture and flavors.",
+            "image": "https://cdn.tasteatlas.com//images/dishes/7cd03979f70949c08f779a686919d7e3.jpg?w=905&h=510"
+        },
+        {
+            "id": 10,
+            "name": "Malai kofta",
+            "price": "42 $",
+            "description": "shahi paneer is a cheese curry that is prepared with paneer cheese, onions, cashews, and a rich, spicy tomato-cream sauce.",
+            "image": "https://cdn.tasteatlas.com//images/dishes/ceff65c140064d6285fc3814534a349b.jpg?mw=1300"
+        },
+        {
+            "id": 11,
+            "name": "Pizza",
+            "price": "10 $",
+            "description": "A delicious pizza,Margherita Pizza",
+            "image": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Sauteed Mushrooms with pumpkin",
+            "price": "50 $",
+            "description": "A delicious pizza",
+            "image": "https://img.freepik.com/premium-photo/sauteed-mushrooms-with-pumpkin-sweet-pepper_2829-10316.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Kale Caesar",
+            "price": "23 $",
+            "description": "A delicious pizza",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvdI4L4PuqWLe-gJLMUm57d1VrGI3GSK1jQ&s"
+        },
+        {
+            "id": 14,
+            "name": "Beef Burger Recipe",
+            "price": "30 $",
+            "description": "A delicious pizza",
+            "image": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/09/beef-burger.jpg?im=AspectCrop=(16,9);"
+        },
+        {
+            "id": 15,
+            "name": "Paav Bhaajii",
+            "price": "22 $",
+            "description": "Famous Veg Dishesof India top vegitarian delisious and seviure",
+            "image": "https://blog.swiggy.com/wp-content/uploads/2024/09/Image-3_Pav-Bhaji-1024x538.png"
+        },
+        {
+            "id": 16,
+            "name": " Palak paneer",
+            "price": "12 $",
+            "description": "Palak paneer is a popular Indian vegetarian dish made with paneer cheese in a rich, thick sauce  ",
+            "image": "https://cdn.tasteatlas.com//Images/Dishes/4ecba690cc0b47809d43d70c7a6b3a39.jpg?w=905&h=510"
+        },
+        {
+            "id": 17,
+            "name": " Matar ke Kabab",
+            "price": "22 $",
+            "description": "Matar ke kabab is a perfect starter for a vegetarian meal which can be eaten with a variety of chutneys adding to the taste. ",
+            "image": "https://c.ndtvimg.com/2021-03/69go9vko_copper-thali_625x300_10_March_21.jpg"
+        },
+        {
+            "id":18,
+            "name": " Dal tadka",
+            "price": "28 $",
+            "description": "Dal tadka or tadkewali dal is a traditional legume-based dish originating from the northern parts of India. Although there are variations ",
+            "image": "https://cdn.tasteatlas.com//images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?w=905&h=510"
+        },
+        {
+            "id": 19,
+            "name": " Matar ke Kabab",
+            "price": "32 $",
+            "description": "The dish is commonly served at festivals, celebrations, and weddings due to its rich texture and flavors.",
+            "image": "https://cdn.tasteatlas.com//images/dishes/7cd03979f70949c08f779a686919d7e3.jpg?w=905&h=510"
+        },
+        {
+            "id": 20,
+            "name": "Malai kofta",
+            "price": "42 $",
+            "description": "shahi paneer is a cheese curry that is prepared with paneer cheese, onions, cashews, and a rich, spicy tomato-cream sauce.",
+            "image": "https://cdn.tasteatlas.com//images/dishes/ceff65c140064d6285fc3814534a349b.jpg?mw=1300"
+        }
+    ],
+    "totalPages":2
+    
+}
